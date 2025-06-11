@@ -23,8 +23,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
   </a>
   
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" />
-  </a>
+    
+  
 </p>
 
 ---
@@ -41,8 +41,4 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykumawat&show_icons=true&locale=en)
-
----
