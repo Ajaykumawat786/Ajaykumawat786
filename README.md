@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaykumawat&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumawat" />
+  <img src="https://komarev.com/ghpvc/?username=Ajaykumawat786&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykumawat786" />
 </p>
 
 - 🔭 I’m currently building responsive web projects  
